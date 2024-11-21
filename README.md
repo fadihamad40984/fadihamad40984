@@ -61,9 +61,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fadihamad40984/count.svg?"  />
-</div>
+
 
 ###
 
