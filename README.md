@@ -11,7 +11,7 @@
 
 ###
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=<fadihamad40984>.<fadihamad40984>)
+![Profile Views](https://komarev.com/ghpvc/?username=fadihamad40984&color=green&style=flat-square)
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlhdzIzdGNndnVrM3VyZ3VzeGIzbWl0bXFneHcxOHhjdGluYmg5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
