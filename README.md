@@ -1,112 +1,106 @@
 # Hi — I'm Fadi Hamad 👋
-Developer · Frontend & Full‑Stack Engineer · Palestine  
-Building fast, accessible, and maintainable web experiences.
+Frontend · Full‑Stack · Mobile Engineer — Palestine  
+I design and build fast, accessible, and maintainable web & mobile experiences.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fadihamad40984&color=green&style=flat-square)](https://github.com/fadihamad40984)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fadihamad40984&layout=compact&langs_count=8)](https://github.com/fadihamad40984)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihamad40984&show_icons=true)](https://github.com/fadihamad40984)
 
 ---
 
 <p align="center">
-  <a href="https://fadihamad.netlify.app/" title="Portfolio">
-    <img alt="Fadi Hamad — portfolio" src="https://raw.githubusercontent.com/fadihamad40984/fadihamad40984/main/assets/hero-screenshot.png" width="420" />
+  <a href="https://fadihamad.netlify.app/" title="Portfolio / Live preview">
+    <img alt="hero" src="https://raw.githubusercontent.com/fadihamad40984/fadihamad40984/main/assets/hero-screenshot.png" width="720" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About
-I design and build delightful web interfaces with a focus on performance, accessibility, and maintainability. I enjoy turning product goals into scalable frontends and pragmatic backends, with an emphasis on developer experience and clean architecture.
+## About me
+I turn product ideas into production-ready apps — web and mobile — focusing on performance, accessibility, and developer experience. I prefer small, iterative improvements with automated tests and CI so teams can ship confidently.
 
 - Location: Palestine  
-- Role: Frontend / Full‑Stack Engineer  
-- Core languages: JavaScript, TypeScript, Python, C#, Java
+- Role: Frontend / Full‑Stack / Mobile Engineer  
+- Primary languages: JavaScript, TypeScript, Dart, Python, Java, C#  
+- Platforms: React, React Native, Flutter, Node.js
 
 ---
 
-## 🚀 What I do
-- Build responsive, accessible UIs using React and modern frontend tooling.  
-- Deliver end-to-end features connecting frontend with Node.js backends.  
-- Improve product quality with pragmatic testing (unit, integration, E2E).  
-- Automate CI/CD and developer workflows for faster, safer delivery.
+## Core strengths
+- Shipping accessible, responsive UI that perform well on mobile and desktop.  
+- Building full-stack features: client, API, and deployment automation.  
+- Pragmatic testing strategy: unit, integration and E2E.  
+- Clear code, documented APIs, fast iteration using CI/CD.
 
 ---
 
-## 🧰 Tech snapshot
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" alt="TypeScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="React" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="Node.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="HTML5" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26" alt="C#" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="Java" />
+## Tech snapshot
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
 
 ---
 
-## 📈 GitHub
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadihamad40984&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=fadihamad40984&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
-<br clear="both"/>
+## Featured projects
+Below are projects from my GitHub — short, focused case-style summaries so you can quickly see the problem, approach, and what I built.
+
+- fix_master — Mobile app + admin tooling (Flutter + JS)  
+  Repo: https://github.com/fadihamad40984/fix_master  
+  What: Cross-platform mobile app built primarily with Flutter (Dart) and a JavaScript-based dashboard.  
+  Why: Target small businesses needing a simple booking/repair workflow.  
+  Approach: Focus on performant, native-feeling UI with offline-friendly state and a lightweight REST API for sync.  
+  Outcome: A maintainable Flutter codebase with a small web admin surface for management.
+
+- me_plus — Flutter application with web companion  
+  Repo: https://github.com/fadihamad40984/me_plus  
+  What: Feature-rich mobile application built with Flutter (Dart) and small web assets.  
+  Why: Provide a cohesive mobile experience with performant UI and reliable navigation patterns.  
+  Approach: Modular Flutter architecture, shared components, responsive layouts for different device sizes.  
+  Outcome: Clean component tree and reusable widgets to accelerate new feature rollout.
+
+- Event_Planner (Software project) — Java + BDD tests  
+  Repo: https://github.com/fadihamad40984/Event_Planner--Software-project--  
+  What: Java-based event planning system with behaviour-driven tests (Gherkin).  
+  Why: Prove features with clear acceptance criteria and automated scenarios.  
+  Approach: Design domain models in Java and drive requirements with Gherkin scenarios to keep implementation aligned with product needs.  
+  Outcome: Tested feature set and repeatable acceptance tests that speed up QA cycles.
+
+- Profile-Website — Personal site / UI showcase  
+  Repo: https://github.com/fadihamad40984/Profile-Website  
+  What: Responsive personal website built with HTML, CSS and JavaScript.  
+  Why: Present projects and case studies with a polished web presence.  
+  Approach: Lightweight, accessible, and optimized for performance (Lighthouse-friendly).  
+  Outcome: Fast load times, mobile-first layout, easy-to-update content.
+
+(If you want any entry converted into a 1-page case study — Problem → Approach → Solution → Result — send 2–3 bullets per project and I’ll format them.)
 
 ---
 
-## 🔬 Featured projects
-(Short case-style entries — replace with details you want to highlight.)
-
-- **Portfolio / Personal Site**  
-  A fast, accessible portfolio built with React + TypeScript. Focused on Lighthouse performance and a clean content-first experience.  
-  Live: https://fadihamad.netlify.app/
-
-- **Project-Name** — (Example: Real-time dashboard)  
-  What it is: a realtime monitoring dashboard. Tech: React, WebSockets, Node.js. Result: reduced time-to-insight for users.  
-  Repo: https://github.com/fadihamad40984/example-project
-
-- **Project-Name** — (Example: E-commerce frontend)  
-  What it is: a performant, SEO-friendly e-commerce storefront. Tech: React, SSR, optimized asset pipeline.  
-  Repo: https://github.com/fadihamad40984/another-project
-
-Want these turned into short case studies (Problem → Approach → Outcome)? Send links & 2–3 notes per project and I’ll format them.
+## Current focus
+- Advanced TypeScript patterns in large React/React Native apps.  
+- Scalable Flutter architectures and native integrations.  
+- Strengthening API contracts and contract tests for backend services.
 
 ---
 
-## 🎯 Current focus
-- Advanced TypeScript patterns and scalable state-management for large React apps.  
-- Building resilient backend services (Node.js) and contract-tested APIs.  
-- Improving test coverage and developer DX (E2E, CI automation).
+## How to work with me
+- I prefer issues + PRs for code collaboration.  
+- I’m open to short contracts, mentoring, and technical interviews.  
+- For hiring: clear acceptance criteria, a small take-home or design brief, and a code-review conversation works best.
 
 ---
 
-## 🤝 Open to
-- Frontend / Full‑Stack collaboration and freelance contracts.  
-- Mentoring and code reviews.  
-- Open-source contributions and community projects.
+## Contact
+- Email: [fadihamad40984@gmail.com](mailto:fadihamad40984@gmail.com)  
+- Discord: ce.fadihamad  
+- LinkedIn: https://www.linkedin.com/in/cefadihamad/  
+- Instagram: https://www.instagram.com/fadi.hamad.161/  
+- Website / Portfolio: https://fadihamad.netlify.app/
 
 ---
 
-## ✉️ Contact & socials
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome)](https://fadihamad.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cefadihamad/)
-[![Email](https://img.shields.io/badge/Email-Talk%20to%20me-D14836?style=for-the-badge&logo=gmail)](mailto:fadihamad40984@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/fadi.hamad.161/)
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord)](https://discordapp.com/users/804799718869565450)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/fadi.hamad.161)
-
----
-
-## 🧩 How I work
-- Small iterations, measurable outcomes, and clear acceptance criteria.  
-- Automated tests + CI to keep releases safe.  
-- Prefer issues + PRs for collaboration — documented, reproducible, and reviewable.
-
----
-
-## ✨ Small request
-If you like this README, star a repo or open an issue with feedback — I reply quickly and appreciate constructive suggestions.
-
----
-
-Thank you for visiting — let’s build something useful and beautiful. 🚀
+Thanks for stopping by — if you like what you see, check out a repo, open an issue, or send a message. Let’s build something great. 🚀
