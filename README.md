@@ -8,87 +8,95 @@ I design and build fast, accessible, and maintainable web & mobile experiences.
 
 ---
 
+<p align="center">
+  <!-- Optional hero image: replace URL with an actual screenshot from your repo if you have one -->
+  <img alt="hero" src="https://raw.githubusercontent.com/fadihamad40984/fadihamad40984/main/assets/hero-screenshot.png" width="720" />
+</p>
+
 ---
 
-## About me
-I turn product ideas into production-ready apps — web and mobile — focusing on performance, accessibility, and developer experience. I prefer small, iterative improvements with automated tests and CI so teams can ship confidently.
+## 👨‍💻 About
+I build user-first web and mobile products with a pragmatic, test-driven approach. My focus is performance, accessibility, and maintainability — delivered via small iterations and solid developer experience.
 
 - Location: Palestine  
 - Role: Frontend / Full‑Stack / Mobile Engineer  
 - Primary languages: JavaScript, TypeScript, Dart, Python, Java, C#  
-- Platforms: React, React Native, Flutter, Node.js
+- Platforms: React, React Native, Flutter, Node.js, MongoDB
 
 ---
 
-## Core strengths
-- Shipping accessible, responsive UI that perform well on mobile and desktop.  
-- Building full-stack features: client, API, and deployment automation.  
-- Pragmatic testing strategy: unit, integration and E2E.  
-- Clear code, documented APIs, fast iteration using CI/CD.
+## 🚀 Core strengths
+- Shipping performant, accessible UIs across web and mobile.  
+- Designing end-to-end features (client → API → persistence → deploy).  
+- Pragmatic testing & CI for safe, fast iteration.  
+- Clear architecture, reusable components, and maintainable codebases.
 
 ---
 
-## Tech snapshot
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
+## 🧰 Tech snapshot
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" alt="TypeScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="React" />&nbsp;
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="Node.js" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python" />
 
 ---
 
-## Featured projects
-Below are projects from my GitHub — short, focused case-style summaries so you can quickly see the problem, approach, and what I built.
+## 📈 GitHub activity
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadihamad40984&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=fadihamad40984&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+<br clear="both"/>
 
-- fix_master — Mobile app + admin tooling (Flutter + JS)  
-  Repo: https://github.com/fadihamad40984/fix_master  
-  What: Cross-platform mobile app built primarily with Flutter (Dart) and a JavaScript-based dashboard.  
-  Why: Target small businesses needing a simple booking/repair workflow.  
-  Approach: Focus on performant, native-feeling UI with offline-friendly state and a lightweight REST API for sync.  
-  Outcome: A maintainable Flutter codebase with a small web admin surface for management.
+---
 
-- me_plus — Flutter application with web companion  
-  Repo: https://github.com/fadihamad40984/me_plus  
-  What: Feature-rich mobile application built with Flutter (Dart) and small web assets.  
-  Why: Provide a cohesive mobile experience with performant UI and reliable navigation patterns.  
-  Approach: Modular Flutter architecture, shared components, responsive layouts for different device sizes.  
-  Outcome: Clean component tree and reusable widgets to accelerate new feature rollout.
+## 🔬 Featured projects
+Below are concise, professional summaries of selected projects from my GitHub — each shows the problem, approach, and outcome.
 
-- Event_Planner (Software project) — Java + BDD tests  
+- wasel — Delivery application (React / React Native / Node.js / MongoDB)  
+  Repo: https://github.com/OmarJarbou/wasel  
+  What: Full delivery platform with mobile apps (React Native) and a web dashboard (React), backed by a Node.js API and MongoDB.  
+  Problem: Provide a reliable, low-latency delivery experience across Android/iOS and web for couriers, customers, and dispatchers.  
+  Approach: Shared JS/TS models where possible, native-feeling RN UI for couriers, responsive React dashboard for operations, real-time location updates and status sync, robust API with authentication and role-based access.  
+  Outcome: End-to-end delivery flows supporting assignments, tracking, and admin controls; designed for scale and quick iteration.
+
+- Event_Planner — Event management (Java + BDD)  
   Repo: https://github.com/fadihamad40984/Event_Planner--Software-project--  
-  What: Java-based event planning system with behaviour-driven tests (Gherkin).  
-  Why: Prove features with clear acceptance criteria and automated scenarios.  
-  Approach: Design domain models in Java and drive requirements with Gherkin scenarios to keep implementation aligned with product needs.  
-  Outcome: Tested feature set and repeatable acceptance tests that speed up QA cycles.
+  What: Java-based event planning system with Behaviour-Driven Development (Gherkin) acceptance tests.  
+  Problem: Deliver predictable event features with clear acceptance criteria for QA and stakeholders.  
+  Approach: Domain-driven Java implementation paired with Gherkin scenarios to drive development and testing.  
+  Outcome: Repeatable acceptance tests and a stable baseline for feature expansion.
 
-- Profile-Website — Personal site / UI showcase  
+- Profile-Website — Personal site / UI showcase (HTML / CSS / JS)  
   Repo: https://github.com/fadihamad40984/Profile-Website  
-  What: Responsive personal website built with HTML, CSS and JavaScript.  
-  Why: Present projects and case studies with a polished web presence.  
-  Approach: Lightweight, accessible, and optimized for performance (Lighthouse-friendly).  
-  Outcome: Fast load times, mobile-first layout, easy-to-update content.
+  What: Lightweight, responsive personal website to showcase projects and contact details.  
+  Approach: Mobile-first design, accessibility considerations, and performance optimizations for fast load times.  
+  Outcome: Clean portfolio with easy content updates and strong performance metrics.
 
-(If you want any entry converted into a 1-page case study — Problem → Approach → Solution → Result — send 2–3 bullets per project and I’ll format them.)
-
----
-
-## Current focus
-- Advanced TypeScript patterns in large React/React Native apps.  
-- Scalable Flutter architectures and native integrations.  
-- Strengthening API contracts and contract tests for backend services.
+(If you'd like a full case study for any of these — Problem → Constraints → Solution → Results — send 2–3 notes per project and I’ll expand them into a one-page case study.)
 
 ---
 
-## How to work with me
-- I prefer issues + PRs for code collaboration.  
-- I’m open to short contracts, mentoring, and technical interviews.  
-- For hiring: clear acceptance criteria, a small take-home or design brief, and a code-review conversation works best.
+## 🎯 Current focus
+- Scalable TypeScript architecture for large React & React Native apps.  
+- Robust backend patterns with Node.js + MongoDB and contract testing.  
+- Better DX: CI/CD, automated tests, and modular component libraries.
 
 ---
 
-## Contact
+## 🤝 Open to
+- Frontend / Full‑Stack / Mobile contracts and collaborations.  
+- Mentoring, code reviews, and architecture discussions.  
+- Open-source contributions and community projects.
+
+---
+
+## ✉️ Contact
 - Email: [fadihamad40984@gmail.com](mailto:fadihamad40984@gmail.com)  
 - Discord: ce.fadihamad  
 - LinkedIn: https://www.linkedin.com/in/cefadihamad/  
@@ -97,4 +105,4 @@ Below are projects from my GitHub — short, focused case-style summaries so you
 
 ---
 
-Thanks for stopping by — if you like what you see, check out a repo, open an issue, or send a message. Let’s build something great. 🚀
+Thank you for visiting — check a project, open an issue, or send a message. Let’s build something useful and beautiful. 🚀
