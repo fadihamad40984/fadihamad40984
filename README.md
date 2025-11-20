@@ -56,26 +56,28 @@ I build user-first web and mobile products with a pragmatic, test-driven approac
 Below are concise, professional summaries of selected projects from my GitHub — each shows the problem, approach, and outcome.
 
 - wasel — Delivery application (React / React Native / Node.js / MongoDB)  
-  Repo: https://github.com/OmarJarbou/wasel  
   What: Full delivery platform with mobile apps (React Native) and a web dashboard (React), backed by a Node.js API and MongoDB.  
   Problem: Provide a reliable, low-latency delivery experience across Android/iOS and web for couriers, customers, and dispatchers.  
   Approach: Shared JS/TS models where possible, native-feeling RN UI for couriers, responsive React dashboard for operations, real-time location updates and status sync, robust API with authentication and role-based access.  
   Outcome: End-to-end delivery flows supporting assignments, tracking, and admin controls; designed for scale and quick iteration.
 
 - Event_Planner — Event management (Java + BDD)  
-  Repo: https://github.com/fadihamad40984/Event_Planner--Software-project--  
   What: Java-based event planning system with Behaviour-Driven Development (Gherkin) acceptance tests.  
   Problem: Deliver predictable event features with clear acceptance criteria for QA and stakeholders.  
   Approach: Domain-driven Java implementation paired with Gherkin scenarios to drive development and testing.  
   Outcome: Repeatable acceptance tests and a stable baseline for feature expansion.
 
-- Profile-Website — Personal site / UI showcase (HTML / CSS / JS)  
-  Repo: https://github.com/fadihamad40984/Profile-Website  
-  What: Lightweight, responsive personal website to showcase projects and contact details.  
-  Approach: Mobile-first design, accessibility considerations, and performance optimizations for fast load times.  
-  Outcome: Clean portfolio with easy content updates and strong performance metrics.
+-- FIXO — Mobile app + admin tooling (Flutter + JS)  
+  What: Cross-platform mobile app built primarily with Flutter (Dart) and a JavaScript-based dashboard.  
+  Why: Target small businesses needing a simple booking/repair workflow.  
+  Approach: Focus on performant, native-feeling UI with offline-friendly state and a lightweight REST API for sync.  
+  Outcome: A maintainable Flutter codebase with a small web admin surface for management.
 
-(If you'd like a full case study for any of these — Problem → Constraints → Solution → Results — send 2–3 notes per project and I’ll expand them into a one-page case study.)
+--- MazenSafety — AI Maze Pathfinding & Visualization (HTML / CSS / JS)
+  What: An interactive AI-powered maze project featuring real-time A* pathfinding, dynamic maze generation, and simple machine-learning evaluation tools.
+  Approach: Modular JavaScript architecture using files such as astar.js, maze.js, and perceptron.js, combined with responsive UI design, smooth visualizations,     and performance-first coding practices.
+  Outcome: A fast, educational, and highly visual demonstration of AI search algorithms and optimization techniques, presented through a clean and accessible web    interface.
+(If you'd like a full case study for any of these — Problem → Constraints → Solution → Results — send 2–3 notes per project and I’ll expand them into a one-page   case study.)
 
 ---
 
