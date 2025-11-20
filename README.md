@@ -8,10 +8,7 @@ I design and build fast, accessible, and maintainable web & mobile experiences.
 
 ---
 
-<p align="center">
-  <!-- Optional hero image: replace URL with an actual screenshot from your repo if you have one -->
-  <img alt="hero" src="https://raw.githubusercontent.com/fadihamad40984/fadihamad40984/main/assets/hero-screenshot.png" width="720" />
-</p>
+
 
 ---
 
@@ -55,7 +52,7 @@ I build user-first web and mobile products with a pragmatic, test-driven approac
 
 ---
 
-## 🔬 Featured projects
+## 🔬 Last projects
 Below are concise, professional summaries of selected projects from my GitHub — each shows the problem, approach, and outcome.
 
 - wasel — Delivery application (React / React Native / Node.js / MongoDB)  
