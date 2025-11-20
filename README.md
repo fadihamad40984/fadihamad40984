@@ -8,12 +8,6 @@ I design and build fast, accessible, and maintainable web & mobile experiences.
 
 ---
 
-<p align="center">
-  <a href="https://fadihamad.netlify.app/" title="Portfolio / Live preview">
-    <img alt="hero" src="https://raw.githubusercontent.com/fadihamad40984/fadihamad40984/main/assets/hero-screenshot.png" width="720" />
-  </a>
-</p>
-
 ---
 
 ## About me
