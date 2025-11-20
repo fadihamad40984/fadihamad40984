@@ -2,30 +2,26 @@
 Frontend · Full‑Stack · Mobile Engineer — Palestine  
 I design and build fast, accessible, and maintainable web & mobile experiences.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fadihamad40984&color=green&style=flat-square)](https://github.com/fadihamad40984)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fadihamad40984&layout=compact&langs_count=8)](https://github.com/fadihamad40984)
+[![Profile Views](https://komarev.com/ghpvc/?username=fadihamad40984&color=green&style=flat-square)](https://github.com/fadihamad40984)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fadihamad40984&layout=compact&langs_count=8)](https://github.com/fadihamad40984)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihamad40984&show_icons=true)](https://github.com/fadihamad40984)
 
 ---
 
-
-
----
-
 ## 👨‍💻 About
-I build user-first web and mobile products with a pragmatic, test-driven approach. My focus is performance, accessibility, and maintainability — delivered via small iterations and solid developer experience.
+I build user-first web and mobile products with a pragmatic, test-driven approach. My priorities are performance, accessibility, and maintainability — delivered through small, frequent iterations and a strong developer experience.
 
 - Location: Palestine  
 - Role: Frontend / Full‑Stack / Mobile Engineer  
-- Primary languages: JavaScript, TypeScript, Dart, Python, Java, C#  
+- Primary languages: JavaScript, TypeScript, Dart, Python, Java, 
 - Platforms: React, React Native, Flutter, Node.js, MongoDB
 
 ---
 
 ## 🚀 Core strengths
-- Shipping performant, accessible UIs across web and mobile.  
-- Designing end-to-end features (client → API → persistence → deploy).  
-- Pragmatic testing & CI for safe, fast iteration.  
+- Shipping performant, accessible user interfaces for web and mobile.  
+- Designing end-to-end features: client → API → persistence → deploy.  
+- Pragmatic testing and CI for safe, fast iteration.  
 - Clear architecture, reusable components, and maintainable codebases.
 
 ---
@@ -52,46 +48,47 @@ I build user-first web and mobile products with a pragmatic, test-driven approac
 
 ---
 
-## 🔬 Last projects
-Below are concise, professional summaries of selected projects from my GitHub — each shows the problem, approach, and outcome.
+## 🔬 Recent projects
+Below are concise, professional summaries of selected projects — each includes the problem, approach, and outcome.
 
-- wasel — Delivery application (React / React Native / Node.js / MongoDB)  
-  What: Full delivery platform with mobile apps (React Native) and a web dashboard (React), backed by a Node.js API and MongoDB.  
-  Problem: Provide a reliable, low-latency delivery experience across Android/iOS and web for couriers, customers, and dispatchers.  
-  Approach: Shared JS/TS models where possible, native-feeling RN UI for couriers, responsive React dashboard for operations, real-time location updates and status sync, robust API with authentication and role-based access.  
-  Outcome: End-to-end delivery flows supporting assignments, tracking, and admin controls; designed for scale and quick iteration.
+- **wasel — Delivery platform** (React / React Native / Node.js / MongoDB)  
+  What: End-to-end delivery system with mobile apps (React Native) and a web dashboard (React).  
+  Problem: Deliver a reliable, low-latency experience for couriers, customers, and dispatchers across mobile and web.  
+  Approach: Shared JS/TS models where possible, native-feeling RN UI for couriers, responsive React dashboard for operations, real-time location updates and status sync, and a robust Node.js API with role-based access.  
+  Outcome: A complete delivery workflow supporting assignments, tracking, and admin controls — built for scale and rapid iteration.
 
-- Event_Planner — Event management (Java + BDD)  
+- **Event_Planner — Event management** (Java + BDD)  
   What: Java-based event planning system with Behaviour-Driven Development (Gherkin) acceptance tests.  
-  Problem: Deliver predictable event features with clear acceptance criteria for QA and stakeholders.  
-  Approach: Domain-driven Java implementation paired with Gherkin scenarios to drive development and testing.  
-  Outcome: Repeatable acceptance tests and a stable baseline for feature expansion.
+  Problem: Ensure features meet stakeholder expectations and remain testable by QA.  
+  Approach: Domain-driven Java implementation paired with Gherkin scenarios to drive development and validate behavior.  
+  Outcome: Repeatable acceptance tests and a stable baseline that accelerates feature delivery.
 
--- FIXO — Mobile app + admin tooling (Flutter + JS)  
-  What: Cross-platform mobile app built primarily with Flutter (Dart) and a JavaScript-based dashboard.  
-  Why: Target small businesses needing a simple booking/repair workflow.  
-  Approach: Focus on performant, native-feeling UI with offline-friendly state and a lightweight REST API for sync.  
-  Outcome: A maintainable Flutter codebase with a small web admin surface for management.
+- **FIXO — Mobile app + admin tooling** (Flutter + JavaScript)  
+  What: Cross-platform mobile app for booking and repair workflows, with a JavaScript admin dashboard.  
+  Problem: Enable small businesses to manage bookings and repairs with a simple, reliable workflow.  
+  Approach: Performance-focused Flutter UI, offline-capable state handling, and a lightweight REST API for synchronization with admin tooling.  
+  Outcome: Maintainable Flutter codebase and an admin surface that simplifies business operations.
 
---- MazenSafety — AI Maze Pathfinding & Visualization (HTML / CSS / JS)
-  What: An interactive AI-powered maze project featuring real-time A* pathfinding, dynamic maze generation, and simple machine-learning evaluation tools.
-  Approach: Modular JavaScript architecture using files such as astar.js, maze.js, and perceptron.js, combined with responsive UI design, smooth visualizations,     and performance-first coding practices.
-  Outcome: A fast, educational, and highly visual demonstration of AI search algorithms and optimization techniques, presented through a clean and accessible web    interface.
-(If you'd like a full case study for any of these — Problem → Constraints → Solution → Results — send 2–3 notes per project and I’ll expand them into a one-page   case study.)
+- **MazenSafety — AI Maze Pathfinding & Visualization** (HTML / CSS / JavaScript)  
+  What: Interactive, AI-powered maze demo featuring A* pathfinding, dynamic maze generation, and simple ML evaluation tools.  
+  Approach: Modular JavaScript architecture (astar.js, maze.js, perceptron.js), responsive UI, and smooth visualizations focused on clarity and performance.  
+  Outcome: A fast, educational demo showcasing search algorithms and optimization techniques in a visual, approachable interface.
+
+(If you want a full case study for any project — Problem → Constraints → Solution → Result — share 2–3 notes per project and I’ll expand it into a one-page case study.)
 
 ---
 
 ## 🎯 Current focus
 - Scalable TypeScript architecture for large React & React Native apps.  
 - Robust backend patterns with Node.js + MongoDB and contract testing.  
-- Better DX: CI/CD, automated tests, and modular component libraries.
+- Improving DX with CI/CD, automated tests, and modular component libraries.
 
 ---
 
 ## 🤝 Open to
 - Frontend / Full‑Stack / Mobile contracts and collaborations.  
-- Mentoring, code reviews, and architecture discussions.  
-- Open-source contributions and community projects.
+- Mentoring, code reviews, and architecture consultations.  
+- Open-source contributions and community work.
 
 ---
 
